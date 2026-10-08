@@ -1,0 +1,842 @@
+[
+  {
+    "id": "algorithmcup",
+    "name": "Algorithm Cup",
+    "count": "40 шт.",
+    "floorPrice": "1 999 TON",
+    "image": "/gifts/algorithmcup.webp"
+  },
+  {
+    "id": "artisanbrick",
+    "name": "Artisan Brick",
+    "count": "2,981 шт.",
+    "floorPrice": "63,5 TON",
+    "image": "/gifts/artisanbrick.webp"
+  },
+  {
+    "id": "astralshard",
+    "name": "Astral Shard",
+    "count": "5 700 шт.",
+    "floorPrice": "115 TON",
+    "image": "/gifts/astralshard.webp"
+  },
+  {
+    "id": "bdaycandle",
+    "name": "B-Day Candle",
+    "count": "24,144 шт.",
+    "floorPrice": "4,6 TON",
+    "image": "/gifts/bdaycandle.webp"
+  },
+  {
+    "id": "berrybox",
+    "name": "Berry Box",
+    "count": "8,938 шт.",
+    "floorPrice": "8,8 TON",
+    "image": "/gifts/berrybox.webp"
+  },
+  {
+    "id": "bigyear",
+    "name": "Big Year",
+    "count": "12,472 шт.",
+    "floorPrice": "3,7 TON",
+    "image": "/gifts/bigyear.webp"
+  },
+  {
+    "id": "blingbinky",
+    "name": "Bling Binky",
+    "count": "2,117 шт.",
+    "floorPrice": "26,2 TON",
+    "image": "/gifts/blingbinky.webp"
+  },
+  {
+    "id": "bondedring",
+    "name": "Bonded Ring",
+    "count": "2,955 шт.",
+    "floorPrice": "43,2 TON",
+    "image": "/gifts/bondedring.webp"
+  },
+  {
+    "id": "bowtie",
+    "name": "Bow Tie",
+    "count": "8,569 шт.",
+    "floorPrice": "5,6 TON",
+    "image": "/gifts/bowtie.webp"
+  },
+  {
+    "id": "bunnymuffin",
+    "name": "Bunny Muffin",
+    "count": "6,666 шт.",
+    "floorPrice": "23 TON",
+    "image": "/gifts/bunnymuffin.webp"
+  },
+  {
+    "id": "candycane",
+    "name": "Candy Cane",
+    "count": "16,133 шт.",
+    "floorPrice": "17 TON",
+    "image": "/gifts/candycane.webp"
+  },
+  {
+    "id": "chillflame",
+    "name": "Chill Flame",
+    "count": "42,618 шт.",
+    "floorPrice": "59 TON",
+    "image": "/gifts/chillflame.webp"
+  },
+  {
+    "id": "cloverpin",
+    "name": "Clover Pin",
+    "count": "18,779 шт.",
+    "floorPrice": "73 TON",
+    "image": "/gifts/cloverpin.webp"
+  },
+  {
+    "id": "cookieheart",
+    "name": "Cookie Heart",
+    "count": "13,471 шт.",
+    "floorPrice": "17 TON",
+    "image": "/gifts/cookieheart.webp"
+  },
+  {
+    "id": "crystalball",
+    "name": "Crystal Ball",
+    "count": "8,359 шт.",
+    "floorPrice": "49 TON",
+    "image": "/gifts/crystalball.webp"
+  },
+  {
+    "id": "cupidcharm",
+    "name": "Cupid Charm",
+    "count": "5,887 шт.",
+    "floorPrice": "68 TON",
+    "image": "/gifts/cupidcharm.webp"
+  },
+  {
+    "id": "deskcalendar",
+    "name": "Desk Calendar",
+    "count": "33,932 шт.",
+    "floorPrice": "17 TON",
+    "image": "/gifts/deskcalendar.webp"
+  },
+  {
+    "id": "diamondring",
+    "name": "Diamond Ring",
+    "count": "8,550 шт.",
+    "floorPrice": "55 TON",
+    "image": "/gifts/diamondring.webp"
+  },
+  {
+    "id": "durovscap",
+    "name": "Durov’s Cap",
+    "count": "3,210 шт.",
+    "floorPrice": "51 TON",
+    "image": "/gifts/durovscap.webp"
+  },
+  {
+    "id": "durovsglasses",
+    "name": "Durov’s Glasse",
+    "count": "564 шт.",
+    "floorPrice": "17 TON",
+    "image": "/gifts/durovsglasses.webp"
+  },
+  {
+    "id": "easteregg",
+    "name": "Easter Egg",
+    "count": "27,081 шт.",
+    "floorPrice": "69 TON",
+    "image": "/gifts/easteregg.webp"
+  },
+  {
+    "id": "electricskull",
+    "name": "Electric Skull",
+    "count": "4,331 шт.",
+    "floorPrice": "9 TON",
+    "image": "/gifts/electricskull.webp"
+  },
+  {
+    "id": "eternalcandle",
+    "name": "Eternal Candle",
+    "count": "12,475 шт.",
+    "floorPrice": "33 TON",
+    "image": "/gifts/eternalcandle.webp"
+  },
+  {
+    "id": "eternalrose",
+    "name": "Eternal Rose",
+    "count": "5,669 шт.",
+    "floorPrice": "31 TON",
+    "image": "/gifts/eternalrose.webp"
+  },
+  {
+    "id": "evileye",
+    "name": "Evil Eye",
+    "count": "18,443 шт.",
+    "floorPrice": "73 TON",
+    "image": "/gifts/evileye.webp"
+  },
+  {
+    "id": "faithamulet",
+    "name": "Faith Amulet",
+    "count": "11,741 шт.",
+    "floorPrice": "75 TON",
+    "image": "/gifts/faithamulet.webp"
+  },
+  {
+    "id": "finepen",
+    "name": "Fine Pen",
+    "count": "2,642 шт.",
+    "floorPrice": "17 TON",
+    "image": "/gifts/finepen.webp"
+  },
+  {
+    "id": "flyingbroom",
+    "name": "Flying Broom",
+    "count": "6,741 шт.",
+    "floorPrice": "31 TON",
+    "image": "/gifts/flyingbroom.webp"
+  },
+  {
+    "id": "freshsocks",
+    "name": "Fresh Sock",
+    "count": "11,748 шт.",
+    "floorPrice": "75 TON",
+    "image": "/gifts/freshsocks.webp"
+  },
+  {
+    "id": "gemsignet",
+    "name": "Gem Signet",
+    "count": "2,164 шт.",
+    "floorPrice": "27 TON",
+    "image": "/gifts/gemsignet.webp"
+  },
+  {
+    "id": "genielamp",
+    "name": "Genie Lamp",
+    "count": "2,741 шт.",
+    "floorPrice": "43 TON",
+    "image": "/gifts/genielamp.webp"
+  },
+  {
+    "id": "gingercookie",
+    "name": "Ginger Cookie",
+    "count": "17,748 шт.",
+    "floorPrice": "40 TON",
+    "image": "/gifts/gingercookie.webp"
+  },
+  {
+    "id": "hangingstar",
+    "name": "Hanging Star",
+    "count": "6,935 шт.",
+    "floorPrice": "25 TON",
+    "image": "/gifts/hangingstar.webp"
+  },
+  {
+    "id": "happybrownie",
+    "name": "Happy Brownie",
+    "count": "11,189 шт.",
+    "floorPrice": "48 TON",
+    "image": "/gifts/happybrownie.webp"
+  },
+  {
+    "id": "heartlocket",
+    "name": "Heart Locket",
+    "count": "1,326 шт.",
+    "floorPrice": "56 TON",
+    "image": "/gifts/heartlocket.webp"
+  },
+  {
+    "id": "heroichelmet",
+    "name": "Heroic Helmet",
+    "count": "1,325 шт.",
+    "floorPrice": "47 TON",
+    "image": "/gifts/heroichelmet.webp"
+  },
+  {
+    "id": "hexpot",
+    "name": "Hex Pot",
+    "count": "14,545 шт.",
+    "floorPrice": "66 TON",
+    "image": "/gifts/hexpot.webp"
+  },
+  {
+    "id": "holidaydrink",
+    "name": "Holiday Drink",
+    "count": "6,352 шт.",
+    "floorPrice": "20 TON",
+    "image": "/gifts/holidaydrink.webp"
+  },
+  {
+    "id": "homemadecake",
+    "name": "Homemade Cake",
+    "count": "33,224 шт.",
+    "floorPrice": "14 TON",
+    "image": "/gifts/homemadecake.webp"
+  },
+  {
+    "id": "hypnolollipop",
+    "name": "Hypno Lollipop",
+    "count": "8,787 шт.",
+    "floorPrice": "52 TON",
+    "image": "/gifts/hypnolollipop.webp"
+  },
+  {
+    "id": "icecream",
+    "name": "Ice Cream",
+    "count": "35,318 шт.",
+    "floorPrice": "20 TON",
+    "image": "/gifts/icecream.webp"
+  },
+  {
+    "id": "inputkey",
+    "name": "Input Key",
+    "count": "14,391 шт.",
+    "floorPrice": "57 TON",
+    "image": "/gifts/inputkey.webp"
+  },
+  {
+    "id": "instantramen",
+    "name": "Instant Ramen",
+    "count": "24,250 шт.",
+    "floorPrice": "13 TON",
+    "image": "/gifts/instantramen.webp"
+  },
+  {
+    "id": "intelligencecup",
+    "name": "Intelligence Cup",
+    "count": "15 шт.",
+    "floorPrice": "59 TON",
+    "image": "/gifts/intelligencecup.webp"
+  },
+  {
+    "id": "iongem",
+    "name": "Ion Gem",
+    "count": "2,703 шт.",
+    "floorPrice": "17 TON",
+    "image": "/gifts/iongem.webp"
+  },
+  {
+    "id": "ionicdryer",
+    "name": "Ionic Dryer",
+    "count": "2,691 шт.",
+    "floorPrice": "19 TON",
+    "image": "/gifts/ionicdryer.webp"
+  },
+  {
+    "id": "jackinthebox",
+    "name": "Jacks-in-the-Box",
+    "count": "16,471 шт.",
+    "floorPrice": "43 TON",
+    "image": "/gifts/jackinthebox.webp"
+  },
+  {
+    "id": "jellybunny",
+    "name": "Jelly Bunnie",
+    "count": "13,927 шт.",
+    "floorPrice": "44 TON",
+    "image": "/gifts/jellybunny.webp"
+  },
+  {
+    "id": "jesterhat",
+    "name": "Jester Hat",
+    "count": "12,985 шт.",
+    "floorPrice": "24 TON",
+    "image": "/gifts/jesterhat.webp"
+  },
+  {
+    "id": "jinglebells",
+    "name": "Jingle Bell",
+    "count": "8,725 шт.",
+    "floorPrice": "45 TON",
+    "image": "/gifts/jinglebells.webp"
+  },
+  {
+    "id": "jollychimp",
+    "name": "Jolly Chimp",
+    "count": "15,038 шт.",
+    "floorPrice": "74 TON",
+    "image": "/gifts/jollychimp.webp"
+  },
+  {
+    "id": "joyfulbundle",
+    "name": "Joyful Bundle",
+    "count": "3,929 шт.",
+    "floorPrice": "27 TON",
+    "image": "/gifts/joyfulbundle.webp"
+  },
+  {
+    "id": "khabibspapakha",
+    "name": "Khabib’s Papakha",
+    "count": "3,447 шт.",
+    "floorPrice": "15 TON",
+    "image": "/gifts/khabibspapakha.webp"
+  },
+  {
+    "id": "kissedfrog",
+    "name": "Kissed Frog",
+    "count": "7,665 шт.",
+    "floorPrice": "54 TON",
+    "image": "/gifts/kissedfrog.webp"
+  },
+  {
+    "id": "libertyfigure",
+    "name": "Liberty Figure",
+    "count": "21,253 шт.",
+    "floorPrice": "9 TON",
+    "image": "/gifts/libertyfigure.webp"
+  },
+  {
+    "id": "lightsword",
+    "name": "Light Sword",
+    "count": "16,965 шт.",
+    "floorPrice": "75 TON",
+    "image": "/gifts/lightsword.webp"
+  },
+  {
+    "id": "lolpop",
+    "name": "Lol Pop",
+    "count": "67,721 шт.",
+    "floorPrice": "44 TON",
+    "image": "/gifts/lolpop.webp"
+  },
+  {
+    "id": "lootbag",
+    "name": "Loot Bag",
+    "count": "6,605 шт.",
+    "floorPrice": "25 TON",
+    "image": "/gifts/lootbag.webp"
+  },
+  {
+    "id": "lovecandle",
+    "name": "Love Candle",
+    "count": "3,220 шт.",
+    "floorPrice": "8 TON",
+    "image": "/gifts/lovecandle.webp"
+  },
+  {
+    "id": "lovepotion",
+    "name": "Love Potion",
+    "count": "6,730 шт.",
+    "floorPrice": "51 TON",
+    "image": "/gifts/lovepotion.webp"
+  },
+  {
+    "id": "lowrider",
+    "name": "Low Rider",
+    "count": "6,758 шт.",
+    "floorPrice": "72 TON",
+    "image": "/gifts/lowrider.webp"
+  },
+  {
+    "id": "lunarsnake",
+    "name": "Lunar Snake",
+    "count": "18,823 шт.",
+    "floorPrice": "20 TON",
+    "image": "/gifts/lunarsnake.webp"
+  },
+  {
+    "id": "lushbouquet",
+    "name": "Lush Bouquet",
+    "count": "6,470 шт.",
+    "floorPrice": "44 TON",
+    "image": "/gifts/lushbouquet.webp"
+  },
+  {
+    "id": "madpumpkin",
+    "name": "Mad Pumpkin",
+    "count": "6,667 шт.",
+    "floorPrice": "4 TON",
+    "image": "/gifts/madpumpkin.webp"
+  },
+  {
+    "id": "magicpotion",
+    "name": "Magic Potion",
+    "count": "3,311 шт.",
+    "floorPrice": "28 TON",
+    "image": "/gifts/magicpotion.webp"
+  },
+  {
+    "id": "mightyarm",
+    "name": "Mighty Arm",
+    "count": "1,831 шт.",
+    "floorPrice": "27 TON",
+    "image": "/gifts/mightyarm.webp"
+  },
+  {
+    "id": "minioscar",
+    "name": "Mini Oscar",
+    "count": "2,161 шт.",
+    "floorPrice": "26 TON",
+    "image": "/gifts/minioscar.webp"
+  },
+  {
+    "id": "moneypot",
+    "name": "Money Pot",
+    "count": "9,273 шт.",
+    "floorPrice": "8 TON",
+    "image": "/gifts/moneypot.webp"
+  },
+  {
+    "id": "moodpack",
+    "name": "Mood Pack",
+    "count": "14,907 шт.",
+    "floorPrice": "5 TON",
+    "image": "/gifts/moodpack.webp"
+  },
+  {
+    "id": "moonpendant",
+    "name": "Moon Pendant",
+    "count": "13,253 шт.",
+    "floorPrice": "9 TON",
+    "image": "/gifts/moonpendant.webp"
+  },
+  {
+    "id": "moussecake",
+    "name": "Mousse Cake",
+    "count": "7,584 шт.",
+    "floorPrice": "14 TON",
+    "image": "/gifts/moussecake.webp"
+  },
+  {
+    "id": "nailbracelet",
+    "name": "Nail Bracelet",
+    "count": "1,906 шт.",
+    "floorPrice": "19 TON",
+    "image": "/gifts/nailbracelet.webp"
+  },
+  {
+    "id": "nekohelmet",
+    "name": "Neko Helmet",
+    "count": "4,179 шт.",
+    "floorPrice": "44 TON",
+    "image": "/gifts/nekohelmet.webp"
+  },
+  {
+    "id": "partysparkler",
+    "name": "Party Sparkler",
+    "count": "21,362 шт.",
+    "floorPrice": "82 TON",
+    "image": "/gifts/partysparkler.webp"
+  },
+  {
+    "id": "perfumebottle",
+    "name": "Perfume Bottle",
+    "count": "2,171 шт.",
+    "floorPrice": "45 TON",
+    "image": "/gifts/perfumebottle.webp"
+  },
+  {
+    "id": "petsnake",
+    "name": "Pet Snake",
+    "count": "11,339 шт.",
+    "floorPrice": "82 TON",
+    "image": "/gifts/petsnake.webp"
+  },
+  {
+    "id": "plushpepe",
+    "name": "Plush Pepe",
+    "count": "2,475 шт.",
+    "floorPrice": "52 TON",
+    "image": "/gifts/plushpepe.webp"
+  },
+  {
+    "id": "poolfloat",
+    "name": "Pool Float",
+    "count": "14,741 шт.",
+    "floorPrice": "51 TON",
+    "image": "/gifts/poolfloat.webp"
+  },
+  {
+    "id": "preciouspeach",
+    "name": "Precious Peache",
+    "count": "2,146 шт.",
+    "floorPrice": "80 TON",
+    "image": "/gifts/preciouspeach.webp"
+  },
+  {
+    "id": "prettyposy",
+    "name": "Pretty Posie",
+    "count": "5,549 шт.",
+    "floorPrice": "6 TON",
+    "image": "/gifts/prettyposy.webp"
+  },
+  {
+    "id": "rarebird",
+    "name": "Rare Bird",
+    "count": "3,632 шт.",
+    "floorPrice": "7 TON",
+    "image": "/gifts/rarebird.webp"
+  },
+  {
+    "id": "recordplayer",
+    "name": "Record Player",
+    "count": "5,491 шт.",
+    "floorPrice": "42 TON",
+    "image": "/gifts/recordplayer.webp"
+  },
+  {
+    "id": "restlessjar",
+    "name": "Restless Jar",
+    "count": "9,374 шт.",
+    "floorPrice": "32 TON",
+    "image": "/gifts/restlessjar.webp"
+  },
+  {
+    "id": "sakuraflower",
+    "name": "Sakura Flower",
+    "count": "14,033 шт.",
+    "floorPrice": "50 TON",
+    "image": "/gifts/sakuraflower.webp"
+  },
+  {
+    "id": "santahat",
+    "name": "Santa Hat",
+    "count": "12,424 шт.",
+    "floorPrice": "43 TON",
+    "image": "/gifts/santahat.webp"
+  },
+  {
+    "id": "scaredcat",
+    "name": "Scared Cat",
+    "count": "14,385 шт.",
+    "floorPrice": "32 TON",
+    "image": "/gifts/scaredcat.webp"
+  },
+  {
+    "id": "sharptongue",
+    "name": "Sharp Tongue",
+    "count": "3,888 шт.",
+    "floorPrice": "65 TON",
+    "image": "/gifts/sharptongue.webp"
+  },
+  {
+    "id": "signetring",
+    "name": "Signet Ring",
+    "count": "7,264 шт.",
+    "floorPrice": "80 TON",
+    "image": "/gifts/signetring.webp"
+  },
+  {
+    "id": "skullflower",
+    "name": "Skull Flower",
+    "count": "7,056 шт.",
+    "floorPrice": "70 TON",
+    "image": "/gifts/skullflower.webp"
+  },
+  {
+    "id": "skystilettos",
+    "name": "Sky Stiletto",
+    "count": "6,070 шт.",
+    "floorPrice": "50 TON",
+    "image": "/gifts/skystilettos.webp"
+  },
+  {
+    "id": "sleighbell",
+    "name": "Sleigh Bell",
+    "count": "4,210 шт.",
+    "floorPrice": "8 TON",
+    "image": "/gifts/sleighbell.webp"
+  },
+  {
+    "id": "snakebox",
+    "name": "Snake Boxe",
+    "count": "9,807 шт.",
+    "floorPrice": "7 TON",
+    "image": "/gifts/snakebox.webp"
+  },
+  {
+    "id": "snoopcigar",
+    "name": "Snoop Cigar",
+    "count": "18,294 шт.",
+    "floorPrice": "40 TON",
+    "image": "/gifts/snoopcigar.webp"
+  },
+  {
+    "id": "snoopdogg",
+    "name": "Snoop Dogg",
+    "count": "56,036 шт.",
+    "floorPrice": "23 TON",
+    "image": "/gifts/snoopdogg.webp"
+  },
+  {
+    "id": "snowglobe",
+    "name": "Snow Globe",
+    "count": "6,376 шт.",
+    "floorPrice": "6 TON",
+    "image": "/gifts/snowglobe.webp"
+  },
+  {
+    "id": "snowmittens",
+    "name": "Snow Mitten",
+    "count": "5,017 шт.",
+    "floorPrice": "31 TON",
+    "image": "/gifts/snowmittens.webp"
+  },
+  {
+    "id": "spicedwine",
+    "name": "Spiced Wine",
+    "count": "12,199 шт.",
+    "floorPrice": "78 TON",
+    "image": "/gifts/spicedwine.webp"
+  },
+  {
+    "id": "springbasket",
+    "name": "Spring Basket",
+    "count": "12,896 шт.",
+    "floorPrice": "34 TON",
+    "image": "/gifts/springbasket.webp"
+  },
+  {
+    "id": "spyagaric",
+    "name": "Spy Agaric",
+    "count": "29,029 шт.",
+    "floorPrice": "74 TON",
+    "image": "/gifts/spyagaric.webp"
+  },
+  {
+    "id": "starnotepad",
+    "name": "Star Notepad",
+    "count": "9,103 шт.",
+    "floorPrice": "30 TON",
+    "image": "/gifts/starnotepad.webp"
+  },
+  {
+    "id": "stellarrocket",
+    "name": "Stellar Rocket",
+    "count": "16,514 шт.",
+    "floorPrice": "53 TON",
+    "image": "/gifts/stellarrocket.webp"
+  },
+  {
+    "id": "surgeboard",
+    "name": "Surge Board",
+    "count": "2,869 шт.",
+    "floorPrice": "41 TON",
+    "image": "/gifts/surgeboard.webp"
+  },
+  {
+    "id": "swagbag",
+    "name": "Swag Bag",
+    "count": "20,492 шт.",
+    "floorPrice": "67 TON",
+    "image": "/gifts/swagbag.webp"
+  },
+  {
+    "id": "swisswatch",
+    "name": "Swiss Watche",
+    "count": "10,855 шт.",
+    "floorPrice": "27 TON",
+    "image": "/gifts/swisswatch.webp"
+  },
+  {
+    "id": "tamagadget",
+    "name": "Tama Gadget",
+    "count": "11,035 шт.",
+    "floorPrice": "29 TON",
+    "image": "/gifts/tamagadget.webp"
+  },
+  {
+    "id": "timelessbook",
+    "name": "Timeless Book",
+    "count": "8,695 шт.",
+    "floorPrice": "56 TON",
+    "image": "/gifts/timelessbook.webp"
+  },
+  {
+    "id": "tophat",
+    "name": "Top Hat",
+    "count": "8,637 шт.",
+    "floorPrice": "79 TON",
+    "image": "/gifts/tophat.webp"
+  },
+  {
+    "id": "toybear",
+    "name": "Toy Bear",
+    "count": "29,514 шт.",
+    "floorPrice": "60 TON",
+    "image": "/gifts/toybear.webp"
+  },
+  {
+    "id": "trappedheart",
+    "name": "Trapped Heart",
+    "count": "9,747 шт.",
+    "floorPrice": "33 TON",
+    "image": "/gifts/trappedheart.webp"
+  },
+  {
+    "id": "ufcstrike",
+    "name": "UFC Strike",
+    "count": "6,590 шт.",
+    "floorPrice": "72 TON",
+    "image": "/gifts/ufcstrike.webp"
+  },
+  {
+    "id": "valentinebox",
+    "name": "Valentine Boxe",
+    "count": "3,890 шт.",
+    "floorPrice": "60 TON",
+    "image": "/gifts/valentinebox.webp"
+  },
+  {
+    "id": "vicecream",
+    "name": "Vice Cream",
+    "count": "43,580 шт.",
+    "floorPrice": "43 TON",
+    "image": "/gifts/vicecream.webp"
+  },
+  {
+    "id": "victorymedal",
+    "name": "Victory Medal",
+    "count": "15,321 шт.",
+    "floorPrice": "68 TON",
+    "image": "/gifts/victorymedal.webp"
+  },
+  {
+    "id": "vintagecigar",
+    "name": "Vintage Cigar",
+    "count": "8,928 шт.",
+    "floorPrice": "26 TON",
+    "image": "/gifts/vintagecigar.webp"
+  },
+  {
+    "id": "voodoodoll",
+    "name": "Voodoo Doll",
+    "count": "11,035 шт.",
+    "floorPrice": "42 TON",
+    "image": "/gifts/voodoodoll.webp"
+  },
+  {
+    "id": "westsidesign",
+    "name": "Westside Sign",
+    "count": "5,268 шт.",
+    "floorPrice": "54 TON",
+    "image": "/gifts/westsidesign.webp"
+  },
+  {
+    "id": "whipcupcake",
+    "name": "Whip Cupcake",
+    "count": "14,929 шт.",
+    "floorPrice": "41 TON",
+    "image": "/gifts/whipcupcake.webp"
+  },
+  {
+    "id": "winterwreath",
+    "name": "Winter Wreath",
+    "count": "9,578 шт.",
+    "floorPrice": "75 TON",
+    "image": "/gifts/winterwreath.webp"
+  },
+  {
+    "id": "witchhat",
+    "name": "Witch Hat",
+    "count": "31,149 шт.",
+    "floorPrice": "41 TON",
+    "image": "/gifts/witchhat.webp"
+  },
+  {
+    "id": "xmasstocking",
+    "name": "Xmas Stocking",
+    "count": "15,339 шт.",
+    "floorPrice": "3 TON",
+    "image": "/gifts/xmasstocking.webp"
+  }
+]
